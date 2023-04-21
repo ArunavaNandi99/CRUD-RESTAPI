@@ -11,6 +11,7 @@
 	<groupId>com.crud</groupId>
 	<artifactId>crud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>crud</name>
 	<description>crud</description>
 	<properties>
